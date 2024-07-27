@@ -1,3 +1,3 @@
 # desktop-clock
 
-Простое desktop приложение которое показывает текущее врема на каждом компьютере
+A simple desktop application that shows the current time on each computer
